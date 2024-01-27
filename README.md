@@ -1,4 +1,4 @@
-![63b5edddfd604202a584ca9e_ZKEVM](https://github.com/bandya2003/KnowCode-T7/assets/108569232/5eaf303f-9668-4d8b-916d-4cbc7886e018)# KnowCode-T7
+# KnowCode-T7
 
 Medico is a Blockchain-based Electronic health Record Storage and Retrieval System.
 
@@ -22,5 +22,10 @@ Low cost
 High performance
 EVM equivalence
 Security
+
 ![image](https://github.com/bandya2003/KnowCode-T7/assets/108569232/8b46aa1b-c91e-4d68-aebc-a4b3a433a92d)
+
+#Some Mokeups 
+*Login 
+![WhatsApp Image 2024-01-27 at 08 01 13_f68045bf](https://github.com/bandya2003/KnowCode-T7/assets/108569232/9a3381fb-699b-498a-af2d-0a1df2d86f82)
 
