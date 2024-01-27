@@ -19,13 +19,24 @@ This approach required the recreation of all EVM opcodes for transparent deploym
 
 # zkEVM vs. EVM
 Low cost
+
 High performance
+
 EVM equivalence
+
 Security
 
 ![image](https://github.com/bandya2003/KnowCode-T7/assets/108569232/8b46aa1b-c91e-4d68-aebc-a4b3a433a92d)
 
-#Some Mokeups 
-*Login 
+# Some Mokeups 
+Login 
+
 ![WhatsApp Image 2024-01-27 at 08 01 13_f68045bf](https://github.com/bandya2003/KnowCode-T7/assets/108569232/9a3381fb-699b-498a-af2d-0a1df2d86f82)
 
+![WhatsApp Image 2024-01-27 at 08 01 14_754c2b5b](https://github.com/bandya2003/KnowCode-T7/assets/108569232/8e7cb598-3de1-4ca0-815c-6f99a165f1fc)
+
+![WhatsApp Image 2024-01-27 at 08 01 15_90e258f9](https://github.com/bandya2003/KnowCode-T7/assets/108569232/5b873d90-4d83-4298-aa2c-e23c46020062)
+
+![WhatsApp Image 2024-01-27 at 08 01 14_930d14f0](https://github.com/bandya2003/KnowCode-T7/assets/108569232/baeca97f-1443-43bf-85a5-d1e8b8eacf71)
+
+![WhatsApp Image 2024-01-27 at 08 01 15_fc3be877](https://github.com/bandya2003/KnowCode-T7/assets/108569232/c62e54d9-3fa0-49a6-8757-6ec7a4df7d2a)
