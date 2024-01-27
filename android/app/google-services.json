@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304764391444",
+    "project_id": "livestock-farm-apgxdi",
+    "storage_bucket": "livestock-farm-apgxdi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304764391444:android:839eb1e57d5e0fe2e49701",
+        "android_client_info": {
+          "package_name": "com.mycompany.livestockfarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPoK9JK1nax8Z3p05BGb8XdySnSqBqfLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304764391444:android:e581452f906dce16e49701",
+        "android_client_info": {
+          "package_name": "com.mycompany.medico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPoK9JK1nax8Z3p05BGb8XdySnSqBqfLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
