@@ -6,7 +6,15 @@ Blockchain Technology with the help of  Polygon zkEVM Provides the Required Safe
 
 Securely Store Your Sensitive Data Such As Health Record.
 
-Only Let Your Trusted Doctors To View Your Medical Records.
+Enables access to medical records across all hospitals, reducing the hassle of carrying physical reports.
+
+Streamlines the process of appointment scheduling for better healthcare management.
+
+## Problem Statement
+
+In emergency situations, individuals often face delays in treatment due to the lack of access to their medical history. 
+
+Additionally, the absence of a centralized platform for health records results in fragmented information, making it challenging for both patients and healthcare providers. HealthChain aims to solve these issues by leveraging advanced technologies.
 
 # Polygon zkEVM
 ![image](https://github.com/bandya2003/KnowCode-T7/assets/108569232/ba0aca62-2eeb-45b8-95cd-5108e914d410)
